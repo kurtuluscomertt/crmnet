@@ -1,0 +1,10 @@
+[26-Jul-2021 19:52:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tulpastb/crmnet.co/index.php on line 3
+[26-Jul-2021 19:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tulpastb/crmnet.co/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tulpastb/crmnet.co/index.php on line 4
+[26-Jul-2021 19:55:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tulpastb/crmnet.co/index.php on line 3
+[26-Jul-2021 19:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tulpastb/crmnet.co/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tulpastb/crmnet.co/index.php on line 4
